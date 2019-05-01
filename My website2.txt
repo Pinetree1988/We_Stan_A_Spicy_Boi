@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+<title>We_Stan_A_Spicy_Boi</title> 
+</head> 
+<body>
+<h1>Flamin' Hot Cheeto</h1> 
+<p>He needs love. Give him love.</p> 
+<li style="color:red;">look at this baby</li></ol> 
+<center><img src="https://media1.tenor.com/images/7b6c616ed3e2a5f2037b93b3459ad369/tenor.gif?itemid=13384748"></center>
+</body> 
+</html> 
